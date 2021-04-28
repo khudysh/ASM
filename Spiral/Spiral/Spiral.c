@@ -67,7 +67,9 @@ void Entry(void) {
 		wsprintf(szResp, L"\n");
 		WriteConsole(hStdout, &szResp, lstrlen(szResp), &dwCount, NULL);
 	}
+	ReadConsole(hStdin, &ch, 128, &n, NULL);
 	ExitProcess(0);
+
 }
 
 
