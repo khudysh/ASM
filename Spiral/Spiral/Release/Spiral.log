@@ -8,6 +8,7 @@ C:\Users\Eugene\source\repos\Spiral\Spiral\Spiral.c(52,25): warning C4244: =: п
 C:\Users\Eugene\source\repos\Spiral\Spiral\Spiral.c(58,16): warning C4018: <: несоответствие типов со знаком и без знака
 C:\Users\Eugene\source\repos\Spiral\Spiral\Spiral.c(59,17): warning C4018: <: несоответствие типов со знаком и без знака
 C:\Users\Eugene\source\repos\Spiral\Spiral\Spiral.c(57,7): warning C4101: Buf: неиспользованная локальная переменная
+C:\Users\Eugene\source\repos\Spiral\Spiral\Spiral.c(20,7): warning C4101: ch: неиспользованная локальная переменная
   Создание кода
   1 of 1 functions (100.0%) were compiled.
     0 functions were new in current compilation

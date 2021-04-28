@@ -24,7 +24,7 @@ void Entry(void) {
 	
 	WriteConsole(hStdout, &szMsg, STRLEN(szMsg), &dwCount, NULL);
 	//ReadConsole(hStdin, &szName, STRLEN(szName), &dwCount, NULL);
-	ReadConsole(hStdin, &ch, 128, &n, NULL);
+	//ReadConsole(hStdin, &ch, 128, &n, NULL);
 	//ReadConsoleA(hStdin, buffer, sizeof(szResp), &n, NULL);
 	//ReadConsole(GetStdHandle(STD_INPUT_HANDLE), &ch, 300, &n, NULL);
 	//n = int(szName[16]) - 32;
