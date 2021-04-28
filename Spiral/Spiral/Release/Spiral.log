@@ -1,0 +1,17 @@
+﻿  Spiral.c
+C:\Users\Eugene\source\repos\Spiral\Spiral\Spiral.c(36,32): warning C4244: =: преобразование "unsigned long" в "short", возможна потеря данных
+C:\Users\Eugene\source\repos\Spiral\Spiral\Spiral.c(39,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Eugene\source\repos\Spiral\Spiral\Spiral.c(40,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Eugene\source\repos\Spiral\Spiral\Spiral.c(44,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Eugene\source\repos\Spiral\Spiral\Spiral.c(48,23): warning C4244: =: преобразование "DWORD" в "short", возможна потеря данных
+C:\Users\Eugene\source\repos\Spiral\Spiral\Spiral.c(52,25): warning C4244: =: преобразование "DWORD" в "short", возможна потеря данных
+C:\Users\Eugene\source\repos\Spiral\Spiral\Spiral.c(58,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Eugene\source\repos\Spiral\Spiral\Spiral.c(59,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Eugene\source\repos\Spiral\Spiral\Spiral.c(57,7): warning C4101: Buf: неиспользованная локальная переменная
+  Создание кода
+  1 of 1 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+Spiral.obj : warning LNK4254: выполнено слияние секции ".data" (C0000040) с ".text" (60000020) с разными атрибутами
+  Spiral.vcxproj -> C:\Users\Eugene\source\repos\Spiral\Release\Spiral.exe
